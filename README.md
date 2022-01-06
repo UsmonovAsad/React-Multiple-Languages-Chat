@@ -1,3 +1,7 @@
+React + Firebase + i18next Multiple-Languages-Chat Project
+# https://global-chat-98886.web.app
+# URL^^^
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
