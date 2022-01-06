@@ -1,4 +1,4 @@
-React + Firebase + i18next Multiple-Languages-Chat Project
+React + Firebase +  i18next Multiple-Languages-Chat Project
 
 # Getting Started with Create React App
 
