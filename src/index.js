@@ -11,13 +11,7 @@ import HttpApi from 'i18next-http-backend';
 import "flag-icon-css/css/flag-icon.min.css";
 
 const firebaseApp = firebase.initializeApp({
-	apiKey: "AIzaSyBuYMDsz0nEUPt9rli6ULpqGzPJCvH1R_I",
-	  authDomain: "global-chat-98886.firebaseapp.com",
-	  projectId: "global-chat-98886",
-	  storageBucket: "global-chat-98886.appspot.com",
-	  messagingSenderId: "662161712551",
-	  appId: "1:662161712551:web:96a6b0af3a1b69f2a28282",
-	  measurementId: "G-ML2RD40ZHF"
+	// Initialize Firebase
 });
 
 export const Context = createContext(null);
